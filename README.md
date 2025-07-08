@@ -20,7 +20,7 @@ A real-time, terminal-based Snake game implemented in modern C++ using only stan
 - **Language**: C++ (C++11 or later)
 - **Data Structures**: `deque` for snake body, `set` for constant-time collision detection
 - **Terminal Control**:  
-  - `termios.h` for disabling canonical input and echo  
+  - `termios.h` for disabling canonical input (The terminal waits until you press Enter before sending your input to the program) and echo  (What you type appears on the screen)
   - `fcntl.h` for making keyboard input non-blocking
 
 ---
