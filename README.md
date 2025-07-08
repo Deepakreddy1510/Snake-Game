@@ -33,7 +33,7 @@ A real-time, terminal-based Snake game implemented in modern C++ using only stan
 
 ---
 
-## 🎮 Controls
+## Controls
 
 | Key     | Action         |
 |---------|----------------|
@@ -45,7 +45,7 @@ A real-time, terminal-based Snake game implemented in modern C++ using only stan
 
 ---
 
-## 🖥️ How to Run
+##  How to Run
 
 ### Requirements
 - Linux/Unix-based terminal
